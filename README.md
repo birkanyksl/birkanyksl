@@ -28,7 +28,7 @@
 
 <p align="left"><img src="https://github-readme-streak-stats.herokuapp.com/?user=birkanyksl&" alt="birkanyksl" width=400 height=auto /></p>
 
-## Contribution :
+ 
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/birkanyksl/birkanyksl/output/github-contribution-grid-snake-dark.svg">
