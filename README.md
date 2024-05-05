@@ -22,13 +22,13 @@
 
 ## Stats:
 
-<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=birkanyksl&show_icons=true&locale=en&layout=compact" alt="birkanyksl"/></p>
+<p align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=birkanyksl&show_icons=true&locale=en&layout=compact" alt="birkanyksl"/></p>
 
-<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=birkanyksl&show_icons=true&locale=en" alt="birkanyksl"/></p>
+<p align="left"><img src="https://github-readme-stats.vercel.app/api?username=birkanyksl&show_icons=true&locale=en" alt="birkanyksl"/></p>
 
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=birkanyksl&" alt="birkanyksl"/></p>
+<p align="left"><img src="https://github-readme-streak-stats.herokuapp.com/?user=birkanyksl&" alt="birkanyksl"/></p>
 
-## GitHub Contribution Grid Snake:
+## Contribution :
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/birkanyksl/birkanyksl/output/github-contribution-grid-snake-dark.svg">
