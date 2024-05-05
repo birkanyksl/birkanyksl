@@ -22,11 +22,11 @@
 
 ## Stats:
 
-<p align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=birkanyksl&show_icons=true&locale=en&layout=compact" alt="birkanyksl"/></p>
+<p align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=birkanyksl&show_icons=true&locale=en&layout=compact" alt="birkanyksl" width=400 height=auto/></p>
 
-<p align="left"><img src="https://github-readme-stats.vercel.app/api?username=birkanyksl&show_icons=true&locale=en" alt="birkanyksl"/></p>
+<p align="left"><img src="https://github-readme-stats.vercel.app/api?username=birkanyksl&show_icons=true&locale=en" alt="birkanyksl" width=400 height=auto/></p>
 
-<p align="left"><img src="https://github-readme-streak-stats.herokuapp.com/?user=birkanyksl&" alt="birkanyksl"/></p>
+<p align="left"><img src="https://github-readme-streak-stats.herokuapp.com/?user=birkanyksl&" alt="birkanyksl" width=400 height=auto /></p>
 
 ## Contribution :
 
