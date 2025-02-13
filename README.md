@@ -4,7 +4,7 @@
 - 📫 How to reach me: **birkanyksl613@gmail.com**
 
 ## Latest Projects:   
-- 📚 **[Blog Platform for Law Firm](https://kypartners.av.tr)** – Full-stack app using Next.js and MongoDB  
+- 📚 **[KY Partners Law Office](https://kypartners.av.tr)** – Full-stack app using Next.js and MongoDB  
 
 ## Connect with me:
 
