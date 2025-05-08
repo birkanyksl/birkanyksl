@@ -5,7 +5,7 @@
 
 ## Latest Projects:   
 - 📚 **[KY Partners Law Office](https://kypartners.av.tr)** – Full-stack app using Next.js and MongoDB
-- 📈 **[Sanchaar Danışmanlık](https://sanchaar.com.tr)** Next.js (🚧 Work in Progress)
+- 📈 **[Sanchaar Danışmanlık](https://sanchaar.com.tr)** Next.js 
 
 ## Connect with me:
 
