@@ -1,12 +1,12 @@
 # Hi 👋, I'm Birkan
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently specializing in Full-stack development with React & Next.js
 - 📫 How to reach me: **birkanyksl613@gmail.com**
 
 ## Latest Projects:   
 - 📚 **[KY Partners Law Office](https://kypartners.av.tr)** – Full-stack app using Next.js and MongoDB
-- 📈 **[Sanchaar Danışmanlık](https://sanchaar.com.tr)** Next.js
-- 🐶 **[Pawlio Petshop](https://pawlio.com.tr)** This project is still under development.
+- 📈 **[Sanchaar Danışmanlık](https://sanchaar.com.tr)** – Next.js
+- 🐶 **[Pawlio Petshop](https://pawlio.com.tr)** – Premium full-stack e-commerce platform built with Next.js 15, Sanity CMS, Supabase, and Drizzle ORM, featuring admin panel, secure iyzico payment integration and advanced UX animations
 
 ## Connect with me:
 
