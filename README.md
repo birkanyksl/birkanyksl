@@ -6,7 +6,7 @@
 ## Latest Projects:   
 - 📚 **[KY Partners Law Office](https://kypartners.av.tr)** – Full-stack app using Next.js and MongoDB
 - 📈 **[Sanchaar Danışmanlık](https://sanchaar.com.tr)** – Next.js
-- 🐶 **[Pawlio Petshop](https://pawlio.com.tr)** – Premium full-stack e-commerce platform built with Next.js 15, Sanity CMS, Supabase, and Drizzle ORM, featuring iyzico payments, automated email/mobile notifications (order tracking, abandoned cart), a custom admin dashboard, and a fully responsive mobile experience.
+- 🐶 **[Pawlio Petshop](https://pawlio.com.tr)** – Premium full-stack e-commerce platform built with Next.js 15, Sanity CMS, Supabase, and Drizzle ORM, featuring AI-powered support, iyzico payments, cargo tracking, digital invoice/contract management, automated email/mobile notifications (order tracking, abandoned cart), a custom admin dashboard, and a fully responsive mobile experience.
 
 ## Connect with me:
 
